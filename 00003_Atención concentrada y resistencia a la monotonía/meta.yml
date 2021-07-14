@@ -2,22 +2,10 @@
 locale: es
 tags: []
 layout: input_bottom
-editor: multiple_choice
+editor: free_form
 type: problem
 extra_visible: false
 teacher_info: ''
 manual_evaluation: false
-choices:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: g0t"aVn67s$5Lh = g0t"aVn67s$5Lh
-  checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: bp38oW{eg2bAÑoEe = bp38oW{eg2AÑoEe
-  checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: y9.2ñsaTC6#B3&i = y9.2ñsaTC6#B3&i
-  checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: nvQ%oi)wEpR¿Iug = nvQ%oi)wEpR¿Iug
-  checked: true
+choices: []
 name: Atención concentrada y resistencia a la monotonía
