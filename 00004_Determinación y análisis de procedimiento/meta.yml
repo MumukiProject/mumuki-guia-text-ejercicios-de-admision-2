@@ -1,0 +1,23 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: single_choice
+type: problem
+extra_visible: false
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: CEBTEMSMPVBA
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: CEBTEMZMPVBA
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: CEBTENSNPVBA
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: CEBTENZNPVBA
+  checked: true
+name: Determinación y análisis de procedimiento

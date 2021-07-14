@@ -1,0 +1,14 @@
+---
+name: Ejercicios de admisión
+locale: es
+type: practice
+beta: false
+teacher_info: ''
+language: text
+id_format: "%05d"
+order:
+- 1
+- 2
+- 3
+- 4
+private: false

@@ -1,0 +1,1 @@
+> Si la palabra **INFORMATORIO** se puede representar como  **VASBEZNGBEVB**, ¿cómo se puede representar la palabra **PROGRAMACION**?
