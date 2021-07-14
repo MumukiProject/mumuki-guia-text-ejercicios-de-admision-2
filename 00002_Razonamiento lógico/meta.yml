@@ -9,15 +9,15 @@ teacher_info: ''
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '17'
+  value: '15'
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: '34'
-  checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '26'
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '38'
+  value: '14'
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '8'
   checked: false
 name: Razonamiento lógico
