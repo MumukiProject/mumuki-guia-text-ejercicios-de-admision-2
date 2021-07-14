@@ -16,7 +16,7 @@ Por otro lado, en contraposición a la noción de "nativos", los adultos serían
 <p>
 Los adolescentes adquieren muchas habilidades tecnológicas a través de una amplia experimentación con las redes sociales y la exploración impulsada por la curiosidad. Sin embargo, utilizar activamente las redes sociales no implica entender qué puede suceder con los datos personales que proveemos al navegar, por qué las consultas de búsqueda devuelven un contenido antes que otros, o comprender la amenaza para nuestra privacidad que pueden significar los permisos que damos al bajar una app. Desarrollar estos conocimientos requiere un aprendizaje activo. 
 </p>
-<cite style= "font-size: 13px;">Fuente: <a href="https://medium.com/proyecto-mumuki/qui%C3%A9nes-habitan-la-red-el-mito-de-los-nativos-digitales-11b5d5b109e7">¿Quiénes habitan la red? El mito de los "nativos digitales"</a>, Mangifesta, Laura. 8 de octubre de 2019. Ciudad de Buenos Aires - Argentina.</cite>
+<cite style= "font-size: 13px;">Fuente: Mangifesta, Laura (08 de octubre de 2019). <a href="https://medium.com/proyecto-mumuki/qui%C3%A9nes-habitan-la-red-el-mito-de-los-nativos-digitales-11b5d5b109e7">¿Quiénes habitan la red? El mito de los "nativos digitales"</a>. Medium.</cite>
 </div>
 
 
