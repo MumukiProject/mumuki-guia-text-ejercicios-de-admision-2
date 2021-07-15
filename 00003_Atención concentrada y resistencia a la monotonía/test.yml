@@ -1,12 +1,12 @@
-- name: La opción es correcta
+- name: El camino A va hasta el tomate
   keys:
     primer_codigo_linea:
       equal: 2
-- name: La opción es correcta
+- name: El camino B va hasta la flor
   keys:
     segundo_codigo_linea:
       equal: 3
-- name: La opción es correcta
+- name: El camino C va hasta la colmena
   keys:
     tercer_codigo_linea:
       equal: 1
