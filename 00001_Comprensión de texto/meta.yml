@@ -7,21 +7,18 @@ type: problem
 extra_visible: false
 teacher_info: ''
 manual_evaluation: false
+progressive_expectations: false
 choices:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: La categoría de "nativos digitales" incorpora al análisis las nociones de
+- value: La categoría de "nativos digitales" incorpora al análisis las nociones de
     género, ubicación geográfica y nivel socioeconómico.
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Los adolescentes, por participar activamente en las redes sociales, conocen
+- value: Los adolescentes, por participar activamente en las redes sociales, conocen
     mejor los peligros involucrados.
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Los adolescentes, a pesar de haber nacido con acceso a las tecnologías digitales,
+- value: Los adolescentes, a pesar de haber nacido con acceso a las tecnologías digitales,
     necesitan ser educados activamente para desarrollar conocimientos tecnológicos.
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Personas de la misma edad pueden tener distintos niveles de acceso y de conocimiento
+- value: Personas de la misma edad pueden tener distintos niveles de acceso y de conocimiento
     en el uso y la apropiación de las tecnologías digitales.
   checked: true
 name: Comprensión de texto

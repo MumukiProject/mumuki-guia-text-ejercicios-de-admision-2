@@ -7,17 +7,14 @@ type: problem
 extra_visible: false
 teacher_info: ''
 manual_evaluation: false
+progressive_expectations: false
 choices:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: JUSDETE
+- value: JUSDETE
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: JUSBETE
+- value: JUSBETE
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: JUSDQTE
+- value: JUSDQTE
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: JUSBQTE
+- value: JUSBQTE
   checked: true
 name: Determinación y análisis de procedimiento

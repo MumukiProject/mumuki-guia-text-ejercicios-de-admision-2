@@ -7,17 +7,14 @@ type: problem
 extra_visible: false
 teacher_info: ''
 manual_evaluation: false
+progressive_expectations: false
 choices:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '15'
+- value: '15'
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '34'
+- value: '34'
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '14'
+- value: '14'
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '8'
+- value: '8'
   checked: false
 name: Razonamiento lógico
